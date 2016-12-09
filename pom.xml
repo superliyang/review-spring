@@ -18,6 +18,7 @@
 		<module>spring-aop</module>
 		<module>spring-data</module>
 		<module>spring-web</module>
+		<module>spring-extension</module>
 	</modules>
 
 	<dependencyManagement>

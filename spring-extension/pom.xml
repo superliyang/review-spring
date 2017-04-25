@@ -9,5 +9,6 @@
   <packaging>pom</packaging>
   <modules>
   	<module>spring-kafka</module>
+  	<module>spring-thrift</module>
   </modules>
 </project>
